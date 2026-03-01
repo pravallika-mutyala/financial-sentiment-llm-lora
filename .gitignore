@@ -1,0 +1,9 @@
+financial-sentiment-lora-venv/
+venv/
+data/
+outputs/
+wandb/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.env
