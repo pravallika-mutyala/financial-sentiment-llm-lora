@@ -1,0 +1,1583 @@
+text
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Unbelievably , the company that makes them - Fiskars Corporation - was formed in 1649 when a Dutch merchant named Peter Thorwoste was given a charter to establish a blast furnace and forging operation in the small Finnish village of Fiskars .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The company was supposed to deliver machinery to a veneer mill in the Tomsk region , in Russia .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: ND = Not disclosed .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The ship unloader is totally enclosed along the entire conveying line to the storage facilities .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The online ice chart shows no ice in the area of Estonia 's sea ports on the coast of the Gulf of Finland .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Sampo Housing Loan Bank , a unit of Finland 's Sampo Bank , has priced its EUR1bn ( USD1 .3 bn ) bond at 99.889 % , Reuters reported .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The company operates a U.S. division in Lisle , Ill. .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: About Dopplr Dopplr is a service for smart travellers .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: According to Gallup Food and Farm Facts , beef consumption totaled 99mn kilos in Finland in 2007 .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: `` Small firms are suffering at the moment because they are likely to have money trouble , '' he added .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The group 's operating loss was EUR 0.8 mn , down from a profit of EUR 2.5 mn in 2004 .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Metsaliitto , however , narrowed its net loss for the second quarter of 2007 to 5.0 mln euro $ 6.9 mln from 61 mln euro $ 83.7 mln a year ago .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Helsinki on October 22 , 2008 SSH COMMUNICATIONS SECURITY CORP Board of Directors For further information , please contact : Tomi Laamanen , Chairman , tel. +358 0 400 609 544 Distribution : NASDAQ OMX Helsinki Ltd. .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The company , which makes garden tools , scissors and other consumer goods , said earnings were boosted by 6.9 mln eur of income it received from its 16.7 pct shareholding in Finnish engineering group Wartsila .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Profit for the period totaled EUR 39.4 mn , up from EUR 33.9 mn in the corresponding period in 2006 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The aim is an annual improvement in Ruukki Construction 's operating profit of more than EUR 3 million USD 4.1 m starting in 2009 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: In 2008 , AVC Systemhaus had net sales of EUR 10 million USD 7.1 m .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: At the end of March 2009 , the company 's loans amounted to EUR 10.113 mn .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: A total of $ 78 million will be invested in the project .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The trade is in accordance with the agreement announced on 26 March 2008 .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The period 's sales dropped to EUR 30.6 million from EUR 38.3 million , according to the interim report , released today .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Construction is expected to be completed in the summer of 2011 .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Another noticeable thing is that the search for Tata and Airtel brands was mostly related to ` broadband connections ' .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The mill is concentrating on getting the supercalendered line running satisfactorily before restarting its older newsprint line .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The policy was also aimed at making the companies more profitable and competitive .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: According to the notification , the holdings of Ameriprice Inc. and its group companies are now in total 808,973 shares , which represent 3.582 % of Tekla -¦ s shares and voting rights .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Pretax profit decreased by 37 % to EUR 193.1 mn from EUR 305.6 mn .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Pretax profit totalled EUR 2.0 mn , compared to a loss of EUR 159.2 mn in the fourth quarter of 2008 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The bank VTB24 provides mortgage loans to buy apartments in the complex at 11-13 % per annum in rubles .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The combined value of the orders is almost EUR 3mn .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Benefon will turn the Salo unit into a B2B business unit and establish a B2C business unit in the UK .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: HUHTAMAKI OYJ STOCK EXCHANGE RELEASE , 16.9.2008 AT 13.32 Huhtamaki 's Capital Markets Day for institutional investors and analysts is held in Espoo , September 16 , 2008 starting at 13.30 pm Finnish time .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Both operating profit and sales for the three-month period increased , respectively from EUR0 .3 m and EUR13 .1 m , as compared to the corresponding period in 2005 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The acquired business main asset is a mobile authentication and signing solution , branded as Tectia MobileID , which provides authentication to web e-mail , SSL-VPN , MS SharePoint , Tectia Secure Solutions and other applications and resources .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Capacity of the facility made by Finland 's Vaahto Group is 86,000 tons of light coated paper .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Basware Corporation stock exchange release August 31 , 2010 at 16:25 Basware signed a large deal with an international industrial group Basware will deliver Invoice Automation solution and Connectivity Services to an international industrial group .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Filmiteollisuus Fine Ab will be transferred to Talentum Oyj in the form of a subsidiary .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The above mentioned shareholders will suggest that a monthly salary of EUR 1,400 would be paid for the Board members outside the company .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The latest date for registration is on 4 April , 2006 .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Cost savings will then rise to some 20 mln eur a year from 2007 , OKO said .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Stora Enso 's business in North America has annual capacity of about 3 million tons and employs about 4,350 people .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Operating profit was EUR 139.7 mn , up 23 % from EUR 113.8 mn .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: HK Ruokatalo produces many turkey products , such as cold cuts .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The closing of such transaction took place today .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Outotec 's delivery covers the engineering , supply and construction of a circulating fluid bed calcination plant with a capacity of 1,600 tons of alumina per day .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The total scholarship amount was 40,000 euros and the recipients were chosen on the recommendation of fine arts universities and sports associations .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: A PLUMBING business has announced it is sponsoring a professional darts player .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Operating profit excluding non-recurring items increased by 27 % to EUR 81.9 mn from EUR 64.4 mn in the corresponding period in 2008 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The Point Village , designed by Scott Tallon Walker , will include a shopping center , office premises , a hotel and a cinema .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Honkarakenne mainly exports large luxury log houses to Russia to be used as one-family houses or holiday homes ; 70 % of sales go to the Moscow region , about 20 % to the St Petersburg region , and the remainder to other locations .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: In the first quarter of 2008 , Sacanfil 's net sales totalled EUR 50.0 mn and its operating profit EUR 4.7 mn .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The proposal of the shareholders to elect Mr. Hannu Krogerus to the Board is based on his long and unrivalled experience and knowledge of all matters related to Elcoteq .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Stockholm-based Nordea Bank ( STO : NDA ) said yesterday it had hired Casper von Koskull to lead its corporate merchant banking and capital markets unit , effective 1 September .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: CapMan said the deal 's effect on its cash flow for 2009 totals EUR3 .4 m , but the transaction would not affect its financial results for 2009 as it was executed at fair value .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Raute is listed on the Nordic exchange in Helsinki .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Sales improved to SEK 1,553 mn , compared with SEK 1,408 mn .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: STOCKMANN plc COMPANY ANNOUNCEMENT February 20 , 2007 , at 13.40 An annual summary of Stockmann 's stock exchange and financial press releases in 2006 is available on the company 's website at the address www.stockmann.com .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Barclays Plc ( LSE : BARC ) ( NYSE : BCS ) , Credit Agricole SA ( EPA : ACA ) ( CAGR .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Food sales totalled EUR 323.5 mn in October 2009 , representing a decrease of 5.5 % from October 2008 .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Mr K.R. Vasantha has been appointed Managing Director of Incap Contract Manufacturing Services Pvt. Ltd. .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: ( ADP News ) - Oct 31 , 2008 - Finnish food company Raisio Oyj ( OMX : RAIVV ) said today that its net profit jumped to EUR 16.4 million ( USD 20.9 m ) for the first nine months of 2008 from EUR 1.1 million for the same period of 2
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Samsung currently occupies third place and lost ground during the quarter , dropping by 1.8 % to an 11.1 % share overall .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Financial , strategic and operational factors are considered .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Cargotec 's business areas also include the container handling solutions business area Kalmar and the marine cargo handling and offshore load handling solutions business area MacGREGOR .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Profit before taxes was EUR 4.0 mn , down from EUR 4.9 mn .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Addus ' services include personal care and assistance with activities of daily living , skilled nursing and rehabilitative therapies , and adult day care .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The presentation material can be viewed on the company 's website in English after the conference .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: In the building and home improvement trade , sales decreased by 6.3 % , totalling EUR 154.1 mn .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: In Sweden , operating profit for the period under review totaled EUR 3.4 mn , up 30.8 % from the corresponding period in 2005 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: In food trade , sales amounted to EUR320 .1 m , a decline of 1.1 % .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The business development initiatives in North America are headed by Lynn Shanahan .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: According to CapMan Plc 's Corporate Governance , the majority of the committees ' members shall be independent of the Company .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: In Finland 's Hobby Hall 's sales decreased by 10 % , and international sales fell by 19 % .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Basware finances the acquisition with a bank loan .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: In addition to verification of an identity and digital signatures , new state-approved Mobile ID enables to cast votes in elections as well .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Production levels have been agreed with producers a long time ago , so a fall in consumption will lead to losses .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The original patent was filed in Finland under application No. .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: ( ADP News ) - Jan 22 , 2009 - Finnish mobile phones maker Nokia Oyj ( OMX : NOK1V ) said today its operating profit decreased to EUR 5 billion ( USD 6.5 bn ) for 2008 from EUR 8 billion for 2007 .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: A total of 15,000 new Citycon shares with a nominal value of EUR 1.35 per share were subscribed between 17 and 23 March 2006 exercising the A-B-C options based on the company 's stock option plan 1999 .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: BM4 middle layer headbox will be equipped with a dilution control system .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The company did not distribute a dividend in 2005 .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Marimekko Group 's full-year net sales are estimated to increase by about 10 % .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Thanks to the multiplying effect of wagon performance , transport will be much more efficient , '' says development manager Juha Malkia from VR Cargo .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Exports grew 16.5 percent to 19.1 million liters .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Finnish high technology provider Vaahto Group reports net sales of EUR 41.8 mn in the accounting period September 2007 - February 2008 , an increase of 11.2 % from a year earlier .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The total value of the contract is some EUR 8 million .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Trading code : ELI1V Number of shares : 99,483 Price-share : Gratuitous After the transfer , Elisa holds a total of 10,435,023 own shares .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Stora Enso Oyj said its second-quarter result would fall by half compared with the same period in 2007 .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Earnings per share ( EPS ) were EUR0 .03 , up from the loss of EUR0 .083 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Exel is headquartered in Mantyharju in Finland .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Cash flow from operations rose to EUR 52.7 mn from EUR 15.6 mn in 2007 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: In 2009 , Fiskars ' cash flow from operating activities amounted to EUR121m , up from EUR97m in the previous year .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Aldata Solution Oyj Bertrand Sciard President and CEO Further information : Aldata Solution Oyj , Bertrand Sciard , President and CEO , tel. +33 1 46 48 28 00 Aldata 100 % Retail-Wholesale At Aldata 100 % of our business is dedicated to retail and wholesale business improvement .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Coca-Cola was the market leader of manufacturers with a market share of 36.9 % , down 2.2 % from the corresponding period in 2004-2005 .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The broker started UPM-Kymmene , Stora Enso and Sappi with ` equal-weight ' recommendations and Holmen and Norske Skog with ` underweight ' ratings .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: This could be any of us at any time , '' she said .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: SRV will also build an aqua park with wellness area , a restaurant and a multifunctional ice arena .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Operating profit rose to EUR 9.2 mn from EUR 6.8 mn in the corresponding period in 2007 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The Department Store Division reported an increase in sales of 4 per cent .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Cohen & Steers , Inc. : 5 534 626 shares representing 4.985 % of the share capital and voting rights .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Terms were not disclosed .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The EUR 0.7 million non-recurring expenses have been recorded for the third quarter .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: In Q1 of 2010 , Bank of +àland 's net interest income increased from EUR 9.1 mn to EUR 9.7 mn .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The shares shall be repurchased through public trading , for which reason the shares are repurchased otherwise than in proportion to the holdings of the shareholders .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The profit after taxes was EUR 57.7 11.1 million .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Rockwell Collins is a provider of flight deck , cabin and information management solutions for business aircraft operators .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The Line 4 will run fully underground and will comprise 10 stations which will be executed in two implementation stages .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The company has a continuous need for alloys such as nickel , ferro-chrome , molybdenum and manganese in its production , said Talvivaara .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Operating profit increased to EUR 14.0 mn from EUR 4.9 mn in the corresponding period in 2005 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Profit after taxes for the period was up to EUR0 .9 m , from EUR0 .01 m last year .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The power supplies , DC power systems and inverters designed and manufactured by Efore , and systems incorporating them are used in many different applications .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: After the split , the number of K shares will be 9 540 000 and the number of A shares 26 885 540 .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Componenta is a metal sector company with international operations and production plants located in Finland , the Netherlands , Sweden and Turkey .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The second variant offers complete final finishing of any selected apartment with foreign high quality materials ( Finland , Denmark , Germany , France ) .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The firm 's UK head office is in Rugby Road , Lutterworth .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: In January-June 2010 , diluted loss per share stood at EUR0 .3 versus EUR0 .1 in the first half of 2009 .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Metsaliitto will sell 1.1 million B shares of Neomarkka , accounting for about 18.3 pct of Neomarkka 's equity and about 12.7 pct of the voting rights .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Earnings per share ( EPS ) dropped to EUR 0.21 from EUR 0.31 .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Maggie Ramsey 's wait - and those of thousands of Oregon and Washington guides , anglers and others who flock to his frequent seminars - is nearly over .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Seven-month sales of Ragutis , which is controlled by the Finnish brewery Olvi , declined by 11.2 percent , to 15.41 million liters , and the company held 9.89 percent of the market .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Earnings per share ( EPS ) amounted to EUR0 .98 , up from the loss of EUR0 .02 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: EBIT margin was up from 1.4 % to 5.1 % .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The value of the contracts is about EUR 3.3 mn .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: `` Marimekko operates in an industry in which changes in the business climate are reflected in consumer demand .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Total value of the contract is about EUR 10mn .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The floor area of the Yliopistonrinne project will be 7,900 sq m and the building 's gross area will total 12,800 sq m. A total 25.1 % of the facilities have been let .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: They can be used to control the speed of electric motors used by industry and municipal engineering , and in power generation using renewable energy .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Below are consolidated , unaudited results for Amanda Capital under IFRS reporting standards .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Net sales decreased to EUR 91.6 mn from EUR 109mn in the corresponding period in 2005 .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Net sales increased to EUR193 .3 m from EUR179 .9 m and pretax profit rose by 34.2 % to EUR43 .1 m. ( EUR1 = USD1 .4 )
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Net sales of Finnish food industry company L+ñnnen Tehtaat 's continuing operations increased by 13 % in 2008 to EUR 349.1 mn from EUR 309.6 mn in 2007 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The parties have agreed not to disclose the price of the deal , the group said in a press release .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The total value of these two contracts is over EUR 21 million .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: 1 February 2011 - Finnish textile and clothing company Marimekko Oyj HEL : MMO1V said today its preliminary operating profit grew to EUR8 .2 m in 2010 from EUR6 .3 m in 2009 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Founded in 1985 , Quatrocon 's clientele consists of public sector builders , central trading companies and major construction firms .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: These sections will be put into place to form the load-bearing steel structure of the bridge , '' says Sami Eronen , Senior Vice President , Infrastructure and Northern Europe , Ruukki Construction .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The store is located in Poznan in a shopping center named Pestka , the company added .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Koff 's market share of the volume of the market was 23.4 % , Karhu 's 21.4 % .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The business area has operations in Finland , Sweden , Denmark , Estonia , Latvia and Lithuania .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Net profit in the three months through March 31 fell to (  x20ac ) 103 million ( US$ 165 million ) from (  x20ac ) 131 million a year earlier , the Finnish company said .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Finnish steel maker Rautaruukki Oyj ( HEL : RTRKS ) , or Ruukki , said today its net loss contracted to EUR 49 million ( USD 68.2 m ) for the first nine months of 2010 from EUR 229 million for the same period a year ago .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Operating loss totaled EUR 25mn compared to a profit of EUR 63mn in the corresponding period in 2005 .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Sanoma News ' advertising sales decreased by 22 % during the year .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Connectivity Services include outsourced Scan and Capture which transfers paper invoices into electronic format and Basware Business Transactions Service enables the customer to receive and send invoices in an electronic format .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: In April-June 2008 , Scanfil 's net sales totalled EUR 58.7 mn and operating profit EUR 6.6 mn .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Finnish Bank of +àland reports its operating profit fell to EUR 4.9 mn in the third quarter of 2007 from EUR 5.6 mn in the third quarter of 2006 .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The figure includes the change in the fair value of the property portfolio , EUR 26.2 million .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: `` Directors and shareholders alike should ask why these practices were allowed to continue . ''
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: And that 's exactly what happened on a recent weekday when an East Haven baker was brought in to remind residents about the Easter tradition of making wheat and rice pies .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Merrill Lynch analyst Campbell Morgan upgraded his recommendation on PaperlinX from `` neutral '' to `` buy '' in May .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Latin America currently accounts for approximately 40 % of sales at Tecnotree , company president and CEO Eero Mertano recently told BNamericas .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Arvo Vuorenmaa , the Loviisa plant 's general manager said the application for the new licence was a `` standard '' procedure and that he was `` quite confident '' about approval being granted .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: However , net sales in 2010 are seen to have grown to EUR598 .3 m from EUR582 .3 m in 2009 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Department store sales improved by 14 % to EUR 1,070.6 mn .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: However , sales volumes in the food industry are expected to remain at relatively good levels in Finland and in Scandinavia , Atria said .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Kemira shares closed at (  x20ac ) 16.66 ( $ 22US .71 ) .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: ABN : 59 087 901 620 now represent 5.10 % of the voting rights and share capital of Citycon Oyj .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Professional and consumer applications include personal navigation , personal safety , field and workflow management , and asset tracking .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Cargotec 's sales totalled EUR 3.4 billion in 2008 and it employs approximately 11,000 people .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Operating profit rose to EUR 5mn from EUR 2.8 mn in the fourth quarter of 2008 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Curators have divided their material into eight themes .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Teleste has some 30 offices worldwide and is listed on the Nordic Exchange in Helsinki .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The payment date is March 25 , 2010 .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The purchase sum is about EUR 10mn US$ 12.97 mn .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The company now estimates its net sales in 2010 to increase considerably from 2009 and its operating result to be clearly positive .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The value of the orders is about EUR 25mn .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: In addition to its stake in MegaFon , Telecominvest currently owns 100 % of shares in Web Plus and St. Petersburg Payphones , 51 % in telecom equipment producer Peter-Servis and a number of other minor assets .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: External net sales from the printing business fell by 43.7 % , partly due to the termination of the printing contract between Ilkka-Yhtyma 's printing house I-print Oy and sector player HSS Media AB in December 2009 and the fall in printing prices .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Pretax profit jumped to EUR 21.9 million from EUR 3.1 million .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: SSH Communications Security Corporation is headquartered in Helsinki , Finland .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: According to an  posted by the World Intellectual Property Organization : `` The present invention relates to hydrocarbons and particularly to the manufacture of hydrocarbon components suitable as aviation fuels or jet fuels and as blending stocks for aviation fuels .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: As such , the space has blond wood floors ( unlike the rest of the store ) and a notably Scandinavian vibe .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: For Q2 2010 , consolidated earnings before tax totaled EUR4 .5 m , compared to EUR3 .9 m , and net profit was EUR3 .2 m , compared to EUR2 .9 m in the previous year .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: no compensation for its news , opinions or distributions .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Turun kaupunkin , Finland based company has awarded contract to Lemminkainen Talotekniikka Oy for electrical installation work .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: `` They want my credit card info and my personal details .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Last year the company raised its turnover to approximately 7 million litas EUR 2 mln , from 6.1 million litas in 2004 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The event can be followed on-line via Orion 's Finnish homepage at www.orion.fi as well as via the Kauppalehti Live web service at www.kauppalehti.fi/live .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The earnings per share for the quarter came in at 0.25 eur , up from the 0.20 eur of the same quarter a year earlier .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The value of the multi-year agreement is over EUR 2mn a year .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: However , two of the previously ordered sets will start producing electricity at the end of October 2010 , it said .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Presentation materials will be posted on the company 's website : www.seahawkdrilling.com in the `` Investor Relations '' section , on the `` Webcast & Presentations '' tab .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: In January , traffic , measured in revenue passenger kilometres RPK , went up by 3.2 % and capacity , measured in available seat kilometres ASK , rose by 12.2 % .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The Diameter Protocol is developed according to the standards IETF RFC 3588 and IETF RFC 3539 .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Earnings per share EPS in 2005 decreased to EUR0 .66 from EUR1 .15 in 2004 .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Both operating profit and net sales for the six-month period increased , respectively from EUR7 .5 m and EUR655 .5 m , as compared to the corresponding period in 2005 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: In 2008 , the steel industry accounted for 64 percent of the cargo volumes transported , whereas the energy industry accounted for 28 percent and other industries for 8 percent .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Most of the dividend will go to the Grimaldi family .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Foundries division reports its sales increased by 9.7 % to EUR 63.1 mn from EUR 57.5 mn in the corresponding period in 2006 , and sales of the Machine Shop division increased by 16.4 % to EUR 41.2 mn from EUR 35.4 mn in the corresponding period in 2006 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The company 's board of directors has proposed a dividend of EUR0 .12 per share for 2006 .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The net sales decreased to EUR 49.8 million from EUR 59.9 million .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Tecnomen 's solution can be used for prepaid and post-paid billing , for charging and rating of voice and video calls , data traffic and any kind of content services in both mobile and fixed networks .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: `` Adjustment to the fall in price level , in contrast , has been less effective .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Stockmann was established in 1862 in Finland and it became the first foreign company to enter Russia 's retail trade market in 1989 .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The company is owned by the State of Finland and the European Aeronautic Defense and Space Company EADS N.V. Tekla is an international software company that provides solutions for building and construction , energy distribution and municipalities .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Performance in the second half of 2009 exceeded expectations .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The changes will take effect on 1 January 2010 , and they are not estimated to have an impact on the number of employees .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The fair value of the company 's investment properties went down to EUR 2.768 billion at the end of 2009 from EUR 2.916 billion a year earlier .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Incap , headquartered in Oulu , Finland , is a electronics contract manufacturer with some 750 employees in Finland , Estonia and India .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: `` The issues identified by Stonesoft affect a range of content inspection technology .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The pretax profit of the group 's life insurance business increased to EUR36m from EUR27m .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Simultaneously , his responsibility area is extended from legal affairs to cover also mergers and acquisitions .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Finnish broadband data communication systems provider Teleste Oyj HEL : TLT1V said yesterday it returned to a net profit of EUR 2.7 million USD 3.8 m for the first nine months of 2010 versus a net loss of EUR 579,000 for the same period of 2009 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Combined net sales in 2006 were $ 27 million and EBITDA was $ 13.7 million .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: In a separate announcement to the Helsinki stock exchange , Atria revealed that the company 's third quarter profits declined from EUR13 .9 m in the third quarter of last year to EUR12 .7 m in this year 's Q3 .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Financial details were n't disclosed .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The add-on order contains , among others , control valves and instrumentation as well as complete mill engineering and electrification with Metso drive controls .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: `` I am extremely delighted with this project and the continuation of cooperation with Viking Line .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Both operating profit and turnover for the three-month period increased , respectively from EUR0 .9 m and EUR8 .3 m , as compared to the corresponding period in 2005 .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: LONDON MarketWatch -- Share prices ended lower in London Monday as a rebound in bank stocks failed to offset broader weakness for the FTSE 100 .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Operating profit margin increased from 11.2 % to 11.7 % .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Valmet Automotive reports net sales of EUR 85mn and operating profit of EUR 8mn .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The contract also includes cutting and edging wagon parts at Ruukki 's steel service centres in Seinajoki and Raahe , both in southwestern Finland , from where they will be delivered to VR for welding and assembly .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The offer of some 30 million shares aimed to raise more than  x20ac 500 million US$ 640 million , was expected to be completed by Oct. 9 , Outokumpu said .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Last year SysOpen Digia invested in IBM product know-how in the building of portal and trading place systems and successfully implemented customer solutions supported by it .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Profit after taxes totaled EUR 12.1 mn .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The contract is for next year .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: This resulted in improved sales figures in Sweden .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: By the end of 2006 , the number of joint branch offices will total 170 .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Sanoma Magazines International will invite other shareholders holding approximately 15 % of the shares to sell their shares .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The buildings , with about 40 condominiums each , will be built in 4 or 5 stages .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Revenue grew by 2 percent to  x20ac 580 million $ 743 million , from  x20ac 569 million .
+Sentiment:<|end|>
+<|assistant|>
+positive<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Okmetic has used the furnaces for the contract manufacturing of solar crystals .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: The business units of the InvestLesProm Group cover the full forest industry chain , and the Group owns forests , sawmills , paper and pulp mills , and other processing plants .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Less than ten people will face pension agreements .
+Sentiment:<|end|>
+<|assistant|>
+neutral<|end|>"
+"<|system|>
+You are a professional financial analyst. Classify the sentiment of the following news sentence.<|end|>
+<|user|>
+Sentence: Talentum 's net sales in September were smaller than expected .
+Sentiment:<|end|>
+<|assistant|>
+negative<|end|>"
