@@ -1,0 +1,15 @@
+# config/config.yaml
+model_id: "microsoft/Phi-3-mini-4k-instruct"
+lora_r: 16
+lora_alpha: 32
+lora_dropout: 0.05
+
+target_modules: ["qkv_proj", "o_proj", "gate_up_proj", "down_proj"]
+learning_rate: 0.0002
+num_epochs: 1
+batch_size: 4
+gradient_accumulation_steps: 4
+max_seq_length: 512
+output_dir: "./outputs"
+logging_steps: 10
+save_steps: 50
